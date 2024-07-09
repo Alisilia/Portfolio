@@ -8,10 +8,10 @@ El objetivo principal de este proyecto es estudiar el precio por noche de los ap
 
 El análisis se ha realizado utilizando Python y las siguientes librerías:
 
-	• NumPy: Para operaciones numéricas y manejo de arrays.
-	• Pandas: Para manipulación y análisis de datos.
-	• Plotly Express: Para visualizaciones interactivas.
-	• Seaborn: Para los gráficos de dispersión.
+- NumPy: Para operaciones numéricas y manejo de arrays.
+- Pandas: Para manipulación y análisis de datos.
+- Plotly Express: Para visualizaciones interactivas.
+- Seaborn: Para los gráficos de dispersión.
 
 **Obtención de los Datos**
 
@@ -21,22 +21,22 @@ Los datos han sido proporcionados por el cliente, ya listos para su análisis. E
 
 Para llevar a cabo el análisis de los datos, se han empleado diversas técnicas con base estadística, incluyendo:
 
-	• Correlaciones: identificar relaciones entre variables contínuas. 
-	• Visualización de datos mediante gráficos de distribución, barras y boxplots.
-	• Presentación de Resultados: Elaboración de un informe detallado con las conclusiones más relevantes.
+- Correlaciones: identificar relaciones entre variables contínuas. 
+- Visualización de datos mediante gráficos de distribución, barras y boxplots.
+- Presentación de Resultados: Elaboración de un informe detallado con las conclusiones más relevantes.
 
 **Conclusiones Generales**
 
 Las conclusiones finales del análisis se pueden visualizar en:
 
-	• El PDF adjunto, que contiene un resumen detallado del análisis y las principales recomendaciones.
-	• El punto 5 del Jupyter Notebook, donde se explican los resultados obtenidos y se presentan las visualizaciones más importantes.
+- El PDF adjunto, que contiene un resumen detallado del análisis y las principales recomendaciones.
+- El punto 5 del Jupyter Notebook, donde se explican los resultados obtenidos y se presentan las visualizaciones más importantes.
 
 **Habilidades Desarrolladas**
 
 A lo largo de este proyecto, he podido desarrollar y consolidar las siguientes habilidades:
 
-	• Análisis de Datos: Manejo de grandes volúmenes de datos y extracción de insights significativos.
-	• Visualización de Datos: Creación de gráficos y visualizaciones que facilitan la comprensión de los resultados.
-	• Uso de Librerías de Python: Aplicación de herramientas avanzadas de Python para el análisis y la visualización de datos.
-	• Comunicación de Resultados: Presentación clara y concisa de las conclusiones del análisis.
+- Análisis de Datos: Manejo de grandes volúmenes de datos y extracción de insights significativos.
+- Visualización de Datos: Creación de gráficos y visualizaciones que facilitan la comprensión de los resultados.
+- Uso de Librerías de Python: Aplicación de herramientas avanzadas de Python para el análisis y la visualización de datos.
+- Comunicación de Resultados: Presentación clara y concisa de las conclusiones del análisis.
