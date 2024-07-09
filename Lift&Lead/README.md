@@ -1,6 +1,6 @@
-Análisis de Medallas del Campeonato Europeo de Halterofilia
+# **Análisis de Medallas del Campeonato Europeo de Halterofilia** 
 
-Objetivo
+**Objetivo**
 
 El objetivo de este proyecto es realizar un estudio detallado de las medallas obtenidas en el Campeonato Europeo de Halterofilia para Lift&Lead, una empresa ficticia que planea abrir centros de CrossFit en España. Este análisis proporcionará insights clave sobre el rendimiento de los atletas y ayudará en la toma de decisiones estratégicas para la empresa.
 
