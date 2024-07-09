@@ -41,6 +41,6 @@ Para llevar a cabo el análisis, se han empleado diversas técnicas de limpieza,
 
 Las conclusiones finales del análisis se pueden visualizar en:
 
-	•	El PDF adjunto, que contiene un resumen detallado del análisis y las principales recomendaciones.
-	•	El punto 3 del Jupyter Notebook, donde se explican los resultados obtenidos y recomendaciones para la empresa.
+- El PDF adjunto, que contiene un resumen detallado del análisis y las principales recomendaciones.
+- El punto 3 del Jupyter Notebook, donde se explican los resultados obtenidos y recomendaciones para la empresa.
 
