@@ -8,14 +8,14 @@ Software
 
 El análisis y la visualización de datos se han realizado utilizando Python y las siguientes librerías:
 
-	•	Numpy: Para operaciones numéricas y manejo de arrays.
-	•	Pandas: Para manipulación y análisis de datos.
-	•	Plotly: Para visualización interactiva de datos.
-	•	Requests: Para realizar solicitudes HTTP durante el web scraping.
-	•	html5lib: Para parsear HTML.
-	•	BeautifulSoup (de bs4): Para extraer datos de documentos HTML.
-	•	re: Para trabajar con expresiones regulares.
-	•	FuzzyWuzzy: Para realizar coincidencias de cadenas difusas y limpieza de datos.
+- Numpy: Para operaciones numéricas y manejo de arrays.
+- Pandas: Para manipulación y análisis de datos.
+- Plotly: Para visualización interactiva de datos.
+- Requests: Para realizar solicitudes HTTP durante el web scraping.
+- html5lib: Para parsear HTML.
+- BeautifulSoup (de bs4): Para extraer datos de documentos HTML.
+- re: Para trabajar con expresiones regulares.
+- FuzzyWuzzy: Para realizar coincidencias de cadenas difusas y limpieza de datos.
 
 Obtención de los Datos
 
@@ -44,13 +44,3 @@ Las conclusiones finales del análisis se pueden visualizar en:
 	•	El PDF adjunto, que contiene un resumen detallado del análisis y las principales recomendaciones.
 	•	El punto 3 del Jupyter Notebook, donde se explican los resultados obtenidos y recomendaciones para la empresa.
 
-Habilidades Desarrolladas
-
-A lo largo de este proyecto, he podido desarrollar y consolidar las siguientes habilidades:
-
-	•	Web Scraping: Extracción de datos de sitios web utilizando BeautifulSoup y requests.
-	•	Limpieza de Datos: Uso de técnicas avanzadas para limpiar y transformar datos.
-	•	Análisis de Datos: Manipulación y análisis de datos utilizando Pandas y Numpy.
-	•	Visualización de Datos: Creación de gráficos y visualizaciones interactivas con Plotly.
-	•	Expresiones Regulares: Aplicación de re para la identificación y corrección de patrones en los datos.
-	•	Coincidencias Difusas: Uso de FuzzyWuzzy para mejorar la calidad de los datos mediante coincidencias de cadenas.
