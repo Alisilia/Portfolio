@@ -21,7 +21,7 @@ El análisis y la visualización de datos se han realizado utilizando Python y l
 
 Los datos han sido obtenidos mediante técnicas de web scraping, recopilados directamente de Wikipedia. Los links se encuentran adjuntos en el Jupyter Notebook
 
-**Técnicas Usadas**
+**Habilidades y técnicas usadas**
 
 Para llevar a cabo el análisis, se han empleado diversas técnicas de limpieza, transformación y análisis de datos, incluyendo:
 
