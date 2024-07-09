@@ -1,4 +1,4 @@
-# **Análisis de Medallas del Campeonato Europeo de Halterofilia** 
+**Análisis de Medallas del Campeonato Europeo de Halterofilia** 
 
 **Objetivo**
 
