@@ -1,4 +1,4 @@
-# **📊 Visualization Project: Dashboard Development📈*
+# * 📊 Visualization Project: Dashboard Development📈*
 
 Link:
 Google Looker Studio Dashboard:  https://lookerstudio.google.com/reporting/e8e23570-941d-46af-b63a-596e674aa99a
