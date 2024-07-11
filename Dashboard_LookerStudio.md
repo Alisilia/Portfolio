@@ -1,4 +1,4 @@
-#**Data Visualization Module Project: Dashboard Development**
+# **Data Visualization Module Project: Dashboard Development**
 
 Link:
 Google Looker Studio Dashboard:  https://lookerstudio.google.com/reporting/e8e23570-941d-46af-b63a-596e674aa99a
@@ -6,7 +6,7 @@ Google Looker Studio Dashboard:  https://lookerstudio.google.com/reporting/e8e23
 We have created a dashboard for Amazon’s Chargebacks department, aimed at reducing their chargebacks for authenticated transactions by 5%.
 The data used for this project has been randomly generated with Python. 
 
-**KPIs:**
+## **KPIs:**
 
 1.	**Total Chargebacks:** The total sum of received chargebacks. This helps us get an overall view of the situation.
 2.	**Ratio of Authenticated Transactions:** The percentage of transactions that have been authenticated out of the total. This percentage is directly related to the department’s goal.
@@ -14,13 +14,13 @@ The data used for this project has been randomly generated with Python.
 4.	**Average Chargeback Amount:** The average value of chargebacks for authenticated transactions. Similar to the previous KPI, but from the perspective of individual transactions.
 5.	**% Caused by Missing Products:** The percentage of total chargebacks generated for this reason. We consider this KPI very relevant, as Amazon can exert greater control over chargebacks caused by missing products.
 
-**Visualizations:**
+## **Visualizations:**
 
 Three pie charts, one stacked bar chart, and two time series charts have been created. One of them is a combined chart that contains information about the total chargebacks and the average monthly value of transactions and chargebacks for each month.
 
-**Segmentation:**
+## **Segmentation:**
 
-The chosen filters allow data visualization by country, payment type, customer type, and chargeback status.
+The chosen filters allow data visualization by country, payment type, customer type, and chargeback status. As we only have data for one year, we have not included a date segmentation. However, it would be interesting to add this filter with more years.
 
 Here's a preview of the dashboard. If you want to interact with it, remember you've access through the link at the top
 
