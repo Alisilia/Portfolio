@@ -10,7 +10,7 @@ The data used for this project has been randomly generated with Python.
 
 1.	**Total Chargebacks:** The total sum of received chargebacks. This helps us get an overall view of the situation.
 2.	**Ratio of Authenticated Transactions:** The percentage of transactions that have been authenticated out of the total. This percentage is directly related to the department’s goal.
-3.      **Total Chargeback Amount:** Indicates the total value sum of chargebacks for authenticated transactions. This provides insight into the overall value of the chargebacks.
+3. **Total Chargeback Amount:** Indicates the total value sum of chargebacks for authenticated transactions. This provides insight into the overall value of the chargebacks.
 4.	**Average Chargeback Amount:** The average value of chargebacks for authenticated transactions. Similar to the previous KPI, but from the perspective of individual transactions.
 5.	**% Caused by Missing Products:** The percentage of total chargebacks generated for this reason. We consider this KPI very relevant, as Amazon can exert greater control over chargebacks caused by missing products.
 
@@ -22,6 +22,6 @@ Three pie charts, one stacked bar chart, and two time series charts have been cr
 
 The chosen filters allow data visualization by country, payment type, customer type, and chargeback status.
 
-Here's a preview of the dashboard. If you want to interact with it, remember you've access through the link https://lookerstudio.google.com/reporting/e8e23570-941d-46af-b63a-596e674aa99a
+Here's a preview of the dashboard. If you want to interact with it, remember you've access through the link at the top
 
 <img width="688" alt="Screenshot 2024-07-11 at 16 11 53" src="https://github.com/Alisilia/Portfolio/assets/161208746/f8ba24d6-d18f-491b-b720-24c5cd9ffa51">
