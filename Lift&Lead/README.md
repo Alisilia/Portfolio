@@ -1,10 +1,10 @@
-**Análisis de Medallas del Campeonato Europeo de Halterofilia** 
+# **Análisis de Medallas del Campeonato Europeo de Halterofilia** 
 
-**Objetivo**
+## **Objetivo**
 
 El objetivo de este proyecto es realizar un estudio detallado de las medallas obtenidas en el Campeonato Europeo de Halterofilia para Lift&Lead, una empresa ficticia que planea abrir centros de CrossFit en España. Este análisis proporcionará insights clave sobre el rendimiento de los atletas y ayudará en la toma de decisiones estratégicas para la empresa.
 
-**Herramientas** 
+## **Herramientas** 
 
 El análisis y la visualización de datos se han realizado utilizando Python y las siguientes librerías:
 
@@ -17,11 +17,11 @@ El análisis y la visualización de datos se han realizado utilizando Python y l
 - re: Para trabajar con expresiones regulares.
 - FuzzyWuzzy: Para realizar coincidencias de cadenas difusas y limpieza de datos.
 
-**Obtención de los Datos**
+## **Obtención de los Datos**
 
 Los datos han sido obtenidos mediante técnicas de web scraping, recopilados directamente de Wikipedia. Los links se encuentran adjuntos en el Jupyter Notebook
 
-**Habilidades y técnicas usadas**
+## **Habilidades y técnicas usadas**
 
 Para llevar a cabo el análisis, se han empleado diversas técnicas de limpieza, transformación y análisis de datos, incluyendo:
 
@@ -37,7 +37,7 @@ Para llevar a cabo el análisis, se han empleado diversas técnicas de limpieza,
 - Presentación de Resultados:
 	•	Elaboración de informes contextualizados y visualizaciones claras y efectivas
 
-**Conclusiones Generales**
+## **Conclusiones Generales**
 
 Las conclusiones finales del análisis se pueden visualizar en:
 
