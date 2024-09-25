@@ -39,16 +39,16 @@ Los datos utilizados en este proyecto han sido obtenidos de dos fuentes principa
 - Construcción de un modelo categórico para analizar los factores más relevantes que afectan a la esperanza de vida.
 - Desarrollo de tres modelos de regresión para predecir la esperanza de vida, comenzando con un árbol de decisión, seguido por un random forest, y finalmente un XGBoost para mejorar la precisión de las predicciones.
 
-**Presentación y Comunicación de Resultados:**
+**Presentación y comunicación de resultados:**
 
 - Elaboración de un dashboard interactivo en *Looker Studio* que presenta los resultados clave y las recomendaciones de manera visual.
 - Creación de una presentación que incluye visualizaciones claras y storytelling efectivo para comunicar los insights.
 
-**Conclusiones Finales**
+## Conclusiones Finales
 
 Las conclusiones finales del análisis destacan qué factores tienen un mayor impacto en la esperanza de vida a nivel global y cómo las políticas públicas pueden influir en la mejora de estos indicadores. Además, se ofrecen recomendaciones específicas para la WHO para abordar estos factores en diversas regiones.
 
-**Documentos Adjuntos:**
+## Documentos Adjuntos:
 
 - Memoria (PDF): Contiene un resumen detallado del proceso de análisis completo, así como la bibliografía complementaria.
 - Presentación (PDF): Un resumen visual del proyecto, con los principales insights y conclusiones.
