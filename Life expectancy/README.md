@@ -14,10 +14,10 @@ El análisis y modelado de datos se ha realizado utilizando Python y las siguien
 - Scikit-learn: Para el modelado de machine learning y clustering.
 - XGBoost: Para el entrenamiento de modelos de predicción avanzados.
   
-## Obtención y limpieza de los Datos
+## Obtención y limpieza de los datos
 Los datos utilizados en este proyecto han sido obtenidos de dos fuentes principales: *Our World in Data* y *World Bank*. Se ha realizado un proceso exhaustivo de limpieza de datos, que incluyó la normalización de nombres de países y el tratamiento de valores nulos.
 
-## Habilidades y Técnicas Usadas
+## Habilidades y Técnicas
 
 **Limpieza y Manipulación de Datos:**
 - Normalización de nombres de países
