@@ -1,10 +1,10 @@
-Health Analytics: Análisis de la Esperanza de Vida
+# **Health Analytics: Análisis de la Esperanza de Vida**
 
-Objetivo
+## **Objetivo**
 
 El objetivo de este proyecto es analizar qué factores socioeconómicos y de salud pública influyen en la esperanza de vida al nacer en distintas regiones del mundo, y proporcionar recomendaciones clave para la Organización Mundial de la Salud (WHO) con el fin de mejorar los resultados de salud pública a nivel global.
 
-Herramientas
+## **Herramientas**
 
 El análisis y modelado de datos se han realizado utilizando Python y las siguientes librerías:
 
@@ -14,11 +14,11 @@ El análisis y modelado de datos se han realizado utilizando Python y las siguie
 	•	Scikit-learn: Para el modelado de machine learning y clustering.
 	•	XGBoost: Para el entrenamiento de modelos de predicción avanzados.
 
-Obtención y limpieza de los Datos
+## **Obtención y limpieza de los Datos**
 
 Los datos utilizados en este proyecto han sido obtenidos de dos fuentes principales: *Our World in Data* y  *World Bank*. Se ha realizado un proceso exhaustivo de limpieza de datos, que incluyó la normalización de nombres de países y el tratamiento de valores nulos.
 
-Habilidades y Técnicas Usadas
+## **Habilidades y Técnicas Usadas**
 
 Limpieza y Manipulación de Datos:
 
@@ -35,19 +35,19 @@ Planteamiento del Problema y Análisis Exploratorio de Datos:
 Modelado de Clustering:
 
 	•	Implementación de un modelo de K-Means clustering, que agrupó los datos en 4 grupos en función de factores como el PIB per cápita, acceso a servicios de salud, y tasas de mortalidad, entre otros.
- . Descripción de las características de los clusters y conclusiones.
+        .       Descripción de las características de los clusters y conclusiones.
 
 Modelos de Machine Learning:
 
 	•	Construcción de un modelo categórico para analizar los factores más relevantes que afectan a la esperanza de vida.
 	•	Desarrollo de tres modelos de regresión para predecir la esperanza de vida, comenzando con un árbol de decisión, seguido por un random forest, y finalmente un XGBoost para mejorar la precisión de las predicciones.
 
-Presentación y Comunicación de Resultados:
+## **Presentación y Comunicación de Resultados:**
 
 	•	Elaboración de un dashboard interactivo que presenta los resultados clave y las recomendaciones de manera visual.
 	•	Creación de informes detallados que incluyen visualizaciones claras y storytelling efectivo para comunicar los insights.
 
-Conclusiones Finales
+## **Conclusiones Finales**
 
 Las conclusiones finales del análisis destacan qué factores tienen un mayor impacto en la esperanza de vida a nivel global y cómo las políticas públicas pueden influir en la mejora de estos indicadores. Además, se ofrecen recomendaciones específicas para la WHO para abordar estos factores en diversas regiones.
 
